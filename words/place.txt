@@ -1,0 +1,30 @@
+Library
+Beach
+Paris, France
+Museum
+Farm
+Tokyo, Japan
+Cinema
+New York City, USA
+Sydney, Australia
+Forest
+Bakery
+University
+Cairo, Egypt
+Rio de Janeiro, Brazil
+Playground
+Subway Station
+London, England
+Hotel
+Mount Everest, Nepal
+Park
+Restaurant
+Venice, Italy
+Desert
+Berlin, Germany
+Bridge
+Amusement Park
+Church
+Toronto, Canada
+Train Station
+Dubai, UAE

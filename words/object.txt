@@ -1,0 +1,30 @@
+Telescope
+Skateboard
+Umbrella
+Lantern
+Guitar
+Pillow
+Clock
+Scissors
+Mirror
+Refrigerator
+Bicycle
+Backpack
+Camera
+Necklace
+Hammer
+Sunglasses
+Laptop
+Paintbrush
+Bookshelf
+Kettle
+Headphones
+Puzzle
+Globe
+Flashlight
+Remote Control
+Fire Extinguisher
+Toothbrush
+Vacuum Cleaner
+Calculator
+Chessboard
