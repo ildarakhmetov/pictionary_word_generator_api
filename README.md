@@ -30,7 +30,7 @@ If the `count` query parameter is specified, it will return that many words. The
 Request:
 
 ```
-GET https://pictionary-word-generator.onrender.com/words/animal/random
+GET https://pictionary-word-generator-api.onrender.com/words/animal/random
 ```
 
 Response:
@@ -47,7 +47,7 @@ Response:
 Request:
 
 ```
-GET https://pictionary-word-generator.onrender.com/words/animal/random?count=3
+GET https://pictionary-word-generator-api.onrender.com/words/animal/random?count=3
 ```
 
 Response:
@@ -66,7 +66,7 @@ Response:
 Request:
 
 ```
-GET https://pictionary-word-generator.onrender.com/words/invalid/random
+GET https://pictionary-word-generator-api.onrender.com/words/invalid/random
 ```
 
 Response:
