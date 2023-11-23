@@ -6,6 +6,8 @@ This is a REST API for generating random words for the game Pictionary. It is cr
 
 The API is hosted at https://pictionary-word-generator.onrender.com/.
 
+Docs: https://pictionary-word-generator.onrender.com/docs.
+
 ## Endpoints
 
 ### GET /words/:category/random
